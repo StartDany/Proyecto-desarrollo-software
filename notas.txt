@@ -1,0 +1,21 @@
+PROYECTO DE DESARROLLO DE SOFTWARE
+
+Estudiante: Nombre del estudiante
+Curso: 10A
+
+Archivos del proyecto:
+
+main.py
+operaciones.py
+estudiantes.py
+notas.txt
+
+Tecnología:
+
+Python
+
+Herramientas:
+
+Git
+GitHub
+Visual Studio Code
