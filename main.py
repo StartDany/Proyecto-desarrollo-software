@@ -25,3 +25,5 @@ print("Suma:", sumar(num1, num2))
 print("Resta:", restar(num1, num2))
 print("Multiplicacion:", multi(num1, num2))
 print("Division:", dividir(num1, num2))
+
+print("\nProyecto desarrollo como actividad de Git y Github.")
